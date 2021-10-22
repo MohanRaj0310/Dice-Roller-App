@@ -1,0 +1,20 @@
+{
+  "name": "dice-roller",
+  "version": "1.0.0",
+  "description": "\"# Dice-Roller-App\"",
+  "main": "script.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohanRaj0310/Dice-Roller-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohanRaj0310/Dice-Roller-App/issues"
+  },
+  "homepage": "https://github.com/MohanRaj0310/Dice-Roller-App#readme"
+}
