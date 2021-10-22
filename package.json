@@ -4,8 +4,7 @@
   "description": "\"# Dice-Roller-App\"",
   "main": "script.js",
   "scripts": {
-    "start": "parcel index.html",
-    "build": "parcel build script.js"
+    "start": "node index.html"
   },
   "repository": {
     "type": "git",
