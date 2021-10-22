@@ -2,10 +2,10 @@
   "name": "dice-roller",
   "version": "1.0.0",
   "description": "\"# Dice-Roller-App\"",
-  "main": "script.js",
+  "default": "index.html",
   "scripts": {
-    "start": "node index.html",
-    "build": "index.html"
+    "start": "parcel index.html",
+    "build": "build parcel index.html --dist-dir ./dist"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MohanRaj0310/Dice-Roller-App/issues"
   },
-  "homepage": "https://github.com/MohanRaj0310/Dice-Roller-App#readme"
+  "homepage": "https://github.com/MohanRaj0310/Dice-Roller-App#readme",
+  "dependencies": {
+    "parcel": "^2.0.0"
+  }
 }
